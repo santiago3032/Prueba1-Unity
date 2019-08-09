@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e813a981abe62b47afeb292f76b446f, type: 3}
+  m_Name: eye overlay PBR
+  m_EditorClassIdentifier: 
+  overlayName: eye overlay PBR
+  _UMA: {fileID: 11400000, guid: 35e5050165ad867419d0e3a4588ab97c, type: 2}
+  _UMAoverlayName: eye overlay PBR
+  Active: 1
+  AvailableAtStart: 0
+  Place: {fileID: 11400000, guid: 0af2fe99e9288a0478cb172337b3eb70, type: 2}
+  PlaceName: Eyes
+  Race:
+  - Goblin
+  - HumanAfrica
+  - HumanOccidental
+  - HumanAsia
+  - Orc
+  Gender: Both
+  OverlayType: Eyes
+  WearWeight: 
+  Default: 0
+  ColorPresets: []
+  Opt01: {fileID: 0}
+  Opt02: {fileID: 0}
+  Dirt01: {fileID: 0}
+  Dirt02: {fileID: 0}
+  LinkedToSlot: []
+  color: {r: 1, g: 1, b: 1, a: 1}
+  RectFactor: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: add4655b46042c543b9a3822551fabdb, type: 3}
+  - {fileID: 2800000, guid: 6cf52a358f83aa148b098183cce85ab9, type: 3}
+  - {fileID: 2800000, guid: 5c07b8cdc6252054cbf0addc504d493c, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  tags: []
+  Elem: 0
+  Preview: {fileID: 0}

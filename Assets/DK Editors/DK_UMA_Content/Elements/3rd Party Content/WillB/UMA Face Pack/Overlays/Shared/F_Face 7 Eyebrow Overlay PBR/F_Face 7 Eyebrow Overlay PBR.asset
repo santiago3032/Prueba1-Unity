@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e813a981abe62b47afeb292f76b446f, type: 3}
+  m_Name: F_Face 7 Eyebrow Overlay PBR
+  m_EditorClassIdentifier: 
+  overlayName: F_Face 7 Eyebrow Overlay PBR
+  _UMA: {fileID: 11400000, guid: 7356c76c629d83b458543dd9a9ea872f, type: 2}
+  _UMAoverlayName: F_Face 7 Eyebrow Overlay PBR
+  Active: 1
+  AvailableAtStart: 0
+  Place: {fileID: 11400000, guid: e0d0b5a4a7784eb45b08b2a6539946a5, type: 2}
+  PlaceName: Head
+  Race:
+  - Orc
+  - Goblin
+  - HumanAfrica
+  - HumanOccidental
+  - HumanAsia
+  Gender: Female
+  OverlayType: Eyebrow
+  WearWeight: 
+  Default: 0
+  ColorPresets: []
+  Opt01: {fileID: 0}
+  Opt02: {fileID: 0}
+  Dirt01: {fileID: 0}
+  Dirt02: {fileID: 0}
+  LinkedToSlot: []
+  color: {r: 1, g: 1, b: 1, a: 1}
+  RectFactor: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: 45c29d530a15d33458f8014447a8f734, type: 3}
+  - {fileID: 2800000, guid: 0224b25ba49dc9c4a9a1a00daba24bd3, type: 3}
+  - {fileID: 2800000, guid: 83f57677c79ac0c44aac2c789dfa1430, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  tags: []
+  Elem: 0
+  Preview: {fileID: 0}

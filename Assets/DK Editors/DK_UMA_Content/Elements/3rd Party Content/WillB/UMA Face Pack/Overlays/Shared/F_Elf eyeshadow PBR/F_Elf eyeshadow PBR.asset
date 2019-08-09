@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e813a981abe62b47afeb292f76b446f, type: 3}
+  m_Name: F_Elf eyeshadow PBR
+  m_EditorClassIdentifier: 
+  overlayName: F_Elf eyeshadow PBR
+  _UMA: {fileID: 11400000, guid: a3e2af64c96be4844a876266e8e03810, type: 2}
+  _UMAoverlayName: F_Elf eyeshadow PBR
+  Active: 1
+  AvailableAtStart: 0
+  Place: {fileID: 11400000, guid: e0d0b5a4a7784eb45b08b2a6539946a5, type: 2}
+  PlaceName: Head
+  Race:
+  - Goblin
+  - HumanAfrica
+  - HumanOccidental
+  - HumanAsia
+  - Orc
+  Gender: Female
+  OverlayType: Makeup
+  WearWeight: 
+  Default: 0
+  ColorPresets:
+  - {fileID: 11400000, guid: 00a9e5f58e2f18f40b3c13515ab4da30, type: 2}
+  - {fileID: 11400000, guid: 419e45f8637babb4c9516bb9ea03a02a, type: 2}
+  - {fileID: 11400000, guid: 6cf45603d36ae9b48b24234b8f546f3e, type: 2}
+  - {fileID: 11400000, guid: d29d999f11e46df438a773c750c270da, type: 2}
+  - {fileID: 11400000, guid: c8aecc16bf9fe434c92e6132fb30258c, type: 2}
+  - {fileID: 11400000, guid: 4ab58b3397797ec4b9accc5bc11affc1, type: 2}
+  - {fileID: 11400000, guid: 78b4c966204e9024291fac836a4fa73c, type: 2}
+  - {fileID: 11400000, guid: dc903c875211dbe478c20058457bfdc5, type: 2}
+  - {fileID: 11400000, guid: 23cc5b496e040de42a9b7c77d3ad60ac, type: 2}
+  - {fileID: 11400000, guid: 1b304b932231b104c83b3680dc7d43e2, type: 2}
+  - {fileID: 11400000, guid: 452e1671d09815d4aa51467eda1ad26f, type: 2}
+  - {fileID: 11400000, guid: 285b3b550d0b02e498eeeb8bd5d01687, type: 2}
+  - {fileID: 11400000, guid: f6841ee818410764ebdaf38357a55cea, type: 2}
+  - {fileID: 11400000, guid: 7b1f03486e84f2644abc1848052362d9, type: 2}
+  Opt01: {fileID: 0}
+  Opt02: {fileID: 0}
+  Dirt01: {fileID: 0}
+  Dirt02: {fileID: 0}
+  LinkedToSlot: []
+  color: {r: 1, g: 1, b: 1, a: 1}
+  RectFactor: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: 4d51fe0355e18d0409fdcb7583f2de35, type: 3}
+  - {fileID: 2800000, guid: ac20140e3ea381d41871b601e94aeb8e, type: 3}
+  - {fileID: 2800000, guid: 56aca293552adc64b80ffd11d2871599, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  tags: []
+  Elem: 0
+  Preview: {fileID: 0}

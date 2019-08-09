@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e813a981abe62b47afeb292f76b446f, type: 3}
+  m_Name: F_Face 8 Overlay PBR
+  m_EditorClassIdentifier: 
+  overlayName: F_Face 8 Overlay PBR
+  _UMA: {fileID: 11400000, guid: e2e546ff54ebf83418c160b147a2ef75, type: 2}
+  _UMAoverlayName: F_Face 8 Overlay PBR
+  Active: 1
+  AvailableAtStart: 0
+  Place: {fileID: 11400000, guid: e0d0b5a4a7784eb45b08b2a6539946a5, type: 2}
+  PlaceName: Head
+  Race:
+  - Orc
+  - Goblin
+  - HumanAfrica
+  - HumanOccidental
+  - HumanAsia
+  Gender: Female
+  OverlayType: Face
+  WearWeight: 
+  Default: 0
+  ColorPresets: []
+  Opt01: {fileID: 0}
+  Opt02: {fileID: 0}
+  Dirt01: {fileID: 0}
+  Dirt02: {fileID: 0}
+  LinkedToSlot: []
+  color: {r: 1, g: 1, b: 1, a: 1}
+  RectFactor: 0
+  rect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  textureList:
+  - {fileID: 2800000, guid: 1ccfcafb2b7fcf54ca24e390e82ae667, type: 3}
+  - {fileID: 2800000, guid: 5e339d34cc3a0524388508084eff4fa4, type: 3}
+  - {fileID: 2800000, guid: a531dadb5a82bb04c84b7b516e057197, type: 3}
+  channelMask: []
+  channelAdditiveMask: []
+  tags: []
+  Elem: 0
+  Preview: {fileID: 0}
